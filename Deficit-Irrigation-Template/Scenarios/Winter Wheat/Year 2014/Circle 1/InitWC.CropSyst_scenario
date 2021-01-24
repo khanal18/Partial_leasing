@@ -1,0 +1,10 @@
+[H2O]
+moisture=specific
+recalibrate_date=0
+units=m³ H2O/m³ soil
+1=0.135
+2=0.135
+3=0.135
+
+
+

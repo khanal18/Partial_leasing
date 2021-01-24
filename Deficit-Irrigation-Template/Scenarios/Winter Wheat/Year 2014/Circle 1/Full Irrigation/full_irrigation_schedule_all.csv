@@ -1,0 +1,25 @@
+DOY,Irrigation,Growth Stage,Gr,Month,cumIrr,continuous,continuous ex flowering,after flowering,after june 1
+274,7.272597008,germination,V,8,7.272597008,1.454519402,1.454519402,0,
+75,25,Active growth&accrescence,V,4,,0,0,0,
+99,25,Active growth&accrescence,V,4,,0,0,0,
+115,25,Active growth&accrescence,V,4,75,15,15,0,
+123,25,Active growth&accrescence,V,5,,0,0,0,
+130,25,Active growth&accrescence,V,5,,0,0,0,
+136,25,Active growth&accrescence,V,5,,0,0,0,
+140,25,Active growth&accrescence,V,5,,0,0,0,
+144,25,Active growth&accrescence,V,5,,0,0,0,
+148,25,Active growth&accrescence,V,5,150,30,30,0,
+152,25,Active growth&accrescence,V,6,,0,0,0,
+155,25,Active growth&accrescence,V,6,,0,0,0,
+159,25,Active growth&accrescence,V,6,,0,0,0,
+163,25,Active growth&accrescence,V,6,,0,0,0,
+167,25,Active growth&accrescence,V,6,,0,25,0,
+174,25,flowering(anthesis)&culminescence,U,6,,0,0,0,
+178,25,flowering(anthesis)&culminescence,U,6,175,35,0,0,35
+182,25,yield formation&culminescence,G,7,,0,0,0,
+186,25,yield formation&culminescence,G,7,,0,0,0,
+189,25,yield formation&culminescence,G,7,,0,0,0,
+192,25,yield formation&senescence,G,7,,0,0,0,
+196,25,yield formation&senescence,G,7,,0,0,,
+200,25,yield formation&senescence,G,7,150,30,30,30,30
+,,,,,,111.4545194,101.4545194,30,65

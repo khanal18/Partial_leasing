@@ -1,0 +1,12 @@
+Growing season report,,Version:,4,,,,,,,,,,
+0 ,,Build date:,2020-05-06,,,,,,,,,,
+,,Run date:,2020-05-17,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,(above,,,,,,
+,,,,,,,ground),,,,,Soil,Soil
+,,,Crop,Planting,Flowering,Maturity,biomass,Evapotranspiration,Evapotranspiration,Transpiration,Transpiration,evaporation,evaporation
+Irrigation,Yield,Precipitation,name,date,date,date,production,maximum,actual,potential,actual,pot.,act.
+(mm),(kg/ha),(mm),,YYYY.DDD,YYYY.DDD,YYYY.DDD,(kg/ha),(mm),(mm),(mm),(mm),(mm),(mm)
+,,,,,,,,,,,,,
+211.3239002,2413.903294,33.7700012,Corn_grain_warmer,120,186,249,11397.63995,802.0806434,296.6534649,402.0349529,200.484853,275.6080428,96.1686119

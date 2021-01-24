@@ -1,0 +1,12 @@
+Growing season report,,Version:,4,,,,,,,,,,
+0 ,,Build date:,2020-05-06,,,,,,,,,,
+,,Run date:,2020-05-12,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,(above,,,,,,
+,,,,,,,ground),,,,,Soil,Soil
+,,,Crop,Planting,Flowering,Maturity,biomass,Evapotranspiration,Evapotranspiration,Transpiration,Transpiration,evaporation,evaporation
+Irrigation,Yield,Precipitation,name,date,date,date,production,maximum,actual,potential,actual,pot.,act.
+(mm),(kg/ha),(mm),,YYYY.DDD,YYYY.DDD,YYYY.DDD,(kg/ha),(mm),(mm),(mm),(mm),(mm),(mm)
+,,,,,,,,,,,,,
+144.6817801,691.4834437,104.0800031,Winter_wheat_warmer,273,170,199,3891.592459,935.1396862,307.0357567,318.4518097,99.26980317,605.033112,207.7659535

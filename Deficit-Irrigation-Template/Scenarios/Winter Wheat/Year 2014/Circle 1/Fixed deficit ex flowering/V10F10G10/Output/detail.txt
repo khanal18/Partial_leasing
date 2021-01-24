@@ -1,0 +1,1 @@
+date	accum_deg_days	chill_hours_remaining	
